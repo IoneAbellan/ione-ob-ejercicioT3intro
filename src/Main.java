@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args){
-        //SUMA
+        //SUMA1
         int valor1 = 5;
         int valor2 = 7;
         int valor3 = 10;
