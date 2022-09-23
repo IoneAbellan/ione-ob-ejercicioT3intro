@@ -8,12 +8,12 @@ public class Main {
 
         int valor = suma(valor1, valor2, valor3);
 
-        System.out.println(valor);
+        System.out.println("El resultado de la suma es: " + valor);
 
         //COCHE
         Coche miCoche = new Coche();
         miCoche.masPuertas();
-        System.out.println(miCoche.puertas);
+        System.out.println("El coche tiene " + miCoche.puertas + " puertas.");
     }
     public static int suma (int a, int b, int c){
         int resultado = a + b + c;
